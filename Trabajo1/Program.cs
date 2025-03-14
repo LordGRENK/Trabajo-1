@@ -1,6 +1,6 @@
 ﻿using System;
 /*
-Trabajo 1 * Darell Parrales * 5:19 PM * 14/03/2025
+Trabajo 1 * Darell Parrales * 5:19 PM * 14/03/2025 U
 */
 namespace Trabajo1
 {
